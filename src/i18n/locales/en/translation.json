@@ -1,0 +1,324 @@
+{
+  "languageSelection": {
+    "title": "Select Language",
+    "subtitle": "Welcome to NSDEV ACCOUNT. Please select your language.",
+    "continue": "Continue"
+  },
+  "header": {
+    "home": "Home",
+    "products": "Products",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "contactUs": "Contact Us",
+    "termsConditions": "Terms & Conditions",
+    "privacyPolicy": "Privacy Policy",
+    "copyright": "© 2025 NSDEV ACCOUNT. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "title": "Get Your NSDEV ACCOUNT Now!",
+      "subtitle": "Easily and quickly obtain your developer account. Bring your projects to life, introduce your applications to the world. We are with you with our reliable and fast service.",
+      "cta1": "Explore Products",
+      "cta2": "Contact Us"
+    },
+    "features": {
+      "title": "Why NSDEV ACCOUNT?",
+      "feature1": {
+        "title": "Easy Access",
+        "description": "With the account you purchase, you can easily access the developer portal and request help with projects."
+      },
+      "feature2": {
+        "title": "Reliable Service",
+        "description": "Our accounts are available in various countries and are offered to you with our quality and secure service understanding."
+      },
+      "feature3": {
+        "title": "Support Line",
+        "description": "By acquiring the account you need, you can contribute to the development environment and help many projects succeed."
+      }
+    },
+    "about": {
+      "title": "NSDEV ACCOUNT",
+      "subtitle": "Premium Developer Accounts",
+      "description1": "Hello,",
+      "description2": "We have been actively selling developer accounts for four years. Our accounts are available in various countries and are offered to you with our quality and secure service understanding. You can contact us for detailed information and to benefit from our services.",
+      "cta": "Contact Us!"
+    },
+    "products": {
+      "title": "Develop Products and Contribute to the Community!",
+      "subtitle": "We support you in acquiring an account for the Developer Program and being present in the developer environment.",
+      "product1": {
+        "title": "Developer Account",
+        "description": "By acquiring the account you need, you can contribute to the development environment and help many projects succeed."
+      },
+      "product2": {
+        "title": "Developer Portal",
+        "description": "Join the Developer Program to help develop amazing applications for iPhone, iPad, Mac, Apple Watch, and Apple TV."
+      },
+      "product3": {
+        "title": "Development Tools",
+        "description": "Access all the tools and resources you need to create great applications and contribute to the developer community."
+      },
+      "cta": "View All Products"
+    },
+    "howToOrder": {
+      "title": "How Can I Order?",
+      "subtitle": "Complete the relevant steps to get your Developer Account in a short time!",
+      "step1": {
+        "title": "Create Order",
+        "description": "Developers who want to purchase an account contact us by clicking on the links on our site."
+      },
+      "step2": {
+        "title": "Account Selection",
+        "description": "After contacting, they specify the details of the developer account to be purchased."
+      },
+      "step3": {
+        "title": "Payment",
+        "description": "Payment for the relevant order is made to the specified account. The payment receipt must be sent to us."
+      },
+      "step4": {
+        "title": "Delivery",
+        "description": "The necessary configurations are made for the requested account and your order is activated. Account information is sent to you."
+      }
+    },
+    "stats": {
+      "developerAccounts": "Developer Accounts",
+      "differentCountries": "Different Country Accounts",
+      "yearsExperience": "Years of Experience",
+      "responseGuarantee": "Fast Response Guarantee"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "question1": {
+        "title": "What is a Developer Account?",
+        "answer": "A Developer Account is an account created for developers who want to develop applications for platforms and publish these applications on the App Store. This account facilitates the application development process by providing developers with various tools and resources."
+      },
+      "question2": {
+        "title": "Which Countries Can I Choose When Purchasing an Account?",
+        "answer": "Developer Account can be used in many countries around the world. We offer accounts from various regions to meet your specific needs."
+      },
+      "question3": {
+        "title": "When Can I Receive My Order?",
+        "answer": "You can securely obtain your Developer Account within minutes after the order is created."
+      },
+      "viewAllFaq": "View All FAQs"
+    },
+    "cta": {
+      "title": "Ready to Start Developing?",
+      "subtitle": "Get your Developer Account today and join the community of innovative developers from around the world.",
+      "button": "Get Started Now"
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Discover our premium developer accounts and services",
+    "filter": {
+      "all": "All Products"
+    },
+    "product1": {
+      "title": "Standard Developer Account",
+      "description": "Perfect for individual developers who want to publish their applications on the App Store.",
+      "features": [
+        "App submission to App Store",
+        "Access to developer tools",
+        "Technical support",
+        "Beta testing with TestFlight"
+      ],
+      "cta": "Contact for Price"
+    },
+    "product2": {
+      "title": "Premium Developer Account",
+      "description": "Enhanced account with additional features for serious developers.",
+      "features": [
+        "All Standard features",
+        "Priority technical support",
+        "Extended app review time",
+        "Custom app preview videos"
+      ],
+      "cta": "Contact for Price"
+    },
+    "product3": {
+      "title": "Enterprise Developer Account",
+      "description": "Designed for organizations that want to develop and distribute custom applications.",
+      "features": [
+        "In-house app distribution",
+        "Volume Purchase Program",
+        "Device Enrollment Program",
+        "Dedicated account manager"
+      ],
+      "cta": "Contact for Price"
+    },
+    "product4": {
+      "title": "Education Developer Account",
+      "description": "Specially designed for educational institutions and students.",
+      "features": [
+        "Multi-user access",
+        "Educational resources",
+        "In-class app distribution",
+        "Student collaboration tools"
+      ],
+      "cta": "Contact for Price"
+    },
+    "product5": {
+      "title": "Account Setup Service",
+      "description": "Complete setup and configuration of your developer account.",
+      "features": [
+        "Account creation",
+        "Profile configuration",
+        "Certificate installation",
+        "App ID registration"
+      ],
+      "cta": "Contact for Price"
+    },
+    "product6": {
+      "title": "App Submission Service",
+      "description": "We manage the entire app submission process for you.",
+      "features": [
+        "App Store listing creation",
+        "Screenshot preparation",
+        "Metadata optimization",
+        "Binary upload and submission"
+      ],
+      "cta": "Contact for Price"
+    },
+    "customSolution": {
+      "title": "Need a Custom Solution?",
+      "description": "Contact us to discuss your specific requirements, and we'll create a custom package for you.",
+      "cta": "Contact Us"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contact us for your questions",
+    "info": {
+      "title": "Contact Information",
+      "description": "You can reach us through the following channels:",
+      "methods": {
+        "whatsapp": "Contact via WhatsApp",
+        "telegram": "Contact via Telegram",
+        "skype": "Contact via Skype",
+        "wechat": "Contact via WeChat"
+      },
+      "businessHours": {
+        "title": "Business Hours",
+        "weekdays": "Monday - Friday: 09:00 - 18:00",
+        "weekends": "Saturday - Sunday: 10:00 - 16:00",
+        "note": "We usually respond to your messages within 1 hour."
+      }
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Your Name",
+      "email": "Your Email Address",
+      "phone": "Your Phone Number",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send",
+      "success": "Your message has been sent!",
+      "successMessage": "We will get back to you as soon as possible."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Most frequently asked questions about developer accounts",
+    "categories": {
+      "all": "All",
+      "accounts": "Accounts",
+      "payment": "Payment",
+      "delivery": "Delivery",
+      "support": "Support"
+    },
+    "questions": {
+      "q1": {
+        "category": "accounts",
+        "question": "What is a Developer Account?",
+        "answer": "A Developer Account is an account created for developers who want to develop applications for platforms and publish these applications on the App Store. This account facilitates the application development process by providing developers with various tools and resources."
+      },
+      "q2": {
+        "category": "accounts",
+        "question": "Which Countries Can I Choose When Purchasing an Account?",
+        "answer": "Developer Account can be used in many countries around the world. We offer accounts from various regions to meet your specific needs."
+      },
+      "q3": {
+        "category": "delivery",
+        "question": "When Can I Receive My Order?",
+        "answer": "You can securely obtain your Developer Account within minutes after the order is created."
+      },
+      "q4": {
+        "category": "payment",
+        "question": "Which Payment Methods Do You Accept?",
+        "answer": "We accept bank transfers, cryptocurrencies, and other popular payment methods. Please contact us for detailed information."
+      },
+      "q5": {
+        "category": "support",
+        "question": "What Should I Do If I Have Issues With My Account?",
+        "answer": "If you experience any issues with your account, you can reach our 24/7 support team via WhatsApp, Telegram, or our other communication channels."
+      },
+      "q6": {
+        "category": "accounts",
+        "question": "How Long Will My Account Be Valid?",
+        "answer": "Developer accounts are generally valid for one year and need to be renewed annually. We will send you a reminder for the renewal process."
+      }
+    }
+  },
+  "legal": {
+    "terms": {
+      "title": "Terms & Conditions",
+      "subtitle": "Please read these terms carefully before using our services",
+      "lastUpdated": "Last Updated: April 28, 2025",
+      "sections": {
+        "intro": {
+          "title": "1. Introduction",
+          "content": "Welcome to NSDEV ACCOUNT (\"we,\" \"our,\" or \"us\"). These Terms and Conditions (\"Terms\") govern your access to and use of our website, products, and services. By accessing or using our services, you agree to be bound by these Terms."
+        },
+        "services": {
+          "title": "2. Services Description",
+          "content": "NSDEV ACCOUNT provides developer accounts and related services. Our services include but are not limited to:",
+          "items": [
+            "Provision of developer accounts",
+            "Account setup and configuration",
+            "Technical support related to account usage"
+          ],
+          "additional": "We reserve the right to modify, suspend, or discontinue any part of our services at any time without notice."
+        }
+      }
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "subtitle": "How we collect, use, and protect your personal information",
+      "lastUpdated": "Last Updated: April 28, 2025",
+      "sections": {
+        "intro": {
+          "title": "1. Introduction",
+          "content": "At NSDEV ACCOUNT (\"we,\" \"our,\" or \"us\"), we respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.",
+          "additional": "Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the site or use our services."
+        },
+        "collection": {
+          "title": "2. Information We Collect",
+          "personalInfo": {
+            "title": "Personal Information",
+            "content": "We may collect personal information that you voluntarily provide to us when you:",
+            "items": [
+              "Register for an account",
+              "Purchase our products or services",
+              "Sign up for our newsletter",
+              "Contact us through our website or messaging platforms",
+              "Participate in surveys or promotions"
+            ],
+            "additional": "The personal information we may collect includes:",
+            "items2": [
+              "Name",
+              "Email address",
+              "Phone number",
+              "Payment information",
+              "Communication preferences"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

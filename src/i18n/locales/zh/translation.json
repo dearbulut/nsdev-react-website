@@ -1,0 +1,324 @@
+{
+  "languageSelection": {
+    "title": "选择语言",
+    "subtitle": "欢迎来到 NSDEV ACCOUNT。请选择您的语言。",
+    "continue": "继续"
+  },
+  "header": {
+    "home": "首页",
+    "products": "产品",
+    "faq": "常见问题",
+    "contact": "联系我们"
+  },
+  "footer": {
+    "quickLinks": "快速链接",
+    "legal": "法律信息",
+    "contactUs": "联系我们",
+    "termsConditions": "使用条款",
+    "privacyPolicy": "隐私政策",
+    "copyright": "© 2025 NSDEV ACCOUNT。保留所有权利。"
+  },
+  "home": {
+    "hero": {
+      "title": "立即获取您的 NSDEV ACCOUNT！",
+      "subtitle": "轻松快速获取您的开发者账户。将您的项目变为现实，向世界展示您的应用程序。我们以可靠和快速的服务与您同在。",
+      "cta1": "探索产品",
+      "cta2": "联系我们"
+    },
+    "features": {
+      "title": "为什么选择 NSDEV ACCOUNT？",
+      "feature1": {
+        "title": "轻松访问",
+        "description": "通过您购买的账户，您可以轻松访问开发者门户并请求项目帮助。"
+      },
+      "feature2": {
+        "title": "可靠服务",
+        "description": "我们的账户在各个国家/地区都可用，并以我们的质量和安全理念提供给您。"
+      },
+      "feature3": {
+        "title": "支持热线",
+        "description": "通过获取所需的账户，您可以为开发环境做出贡献并帮助许多项目取得成功。"
+      }
+    },
+    "about": {
+      "title": "NSDEV ACCOUNT",
+      "subtitle": "高级开发者账户",
+      "description1": "您好，",
+      "description2": "我们已经积极销售开发者账户四年了。我们的账户在各个国家/地区都可用，并以我们的质量和安全理念提供给您。您可以联系我们获取详细信息并从我们的服务中受益。",
+      "cta": "联系我们！"
+    },
+    "products": {
+      "title": "开发产品并为社区做出贡献！",
+      "subtitle": "我们支持您获取开发者计划的账户并在开发者环境中存在。",
+      "product1": {
+        "title": "开发者账户",
+        "description": "通过获取所需的账户，您可以为开发环境做出贡献并帮助许多项目取得成功。"
+      },
+      "product2": {
+        "title": "开发者门户",
+        "description": "加入开发者计划，帮助为 iPhone、iPad、Mac、Apple Watch 和 Apple TV 开发令人惊叹的应用程序。"
+      },
+      "product3": {
+        "title": "开发工具",
+        "description": "访问创建出色应用程序并为开发者社区做出贡献所需的所有工具和资源。"
+      },
+      "cta": "查看所有产品"
+    },
+    "howToOrder": {
+      "title": "如何订购？",
+      "subtitle": "完成相关步骤，在短时间内获取您的开发者账户！",
+      "step1": {
+        "title": "创建订单",
+        "description": "想要购买账户的开发者通过点击我们网站上的链接与我们联系。"
+      },
+      "step2": {
+        "title": "账户选择",
+        "description": "联系后，他们指定要购买的开发者账户的详细信息。"
+      },
+      "step3": {
+        "title": "付款",
+        "description": "相关订单的付款将支付到指定账户。付款收据必须发送给我们。"
+      },
+      "step4": {
+        "title": "交付",
+        "description": "为请求的账户进行必要的配置，并激活您的订单。账户信息将发送给您。"
+      }
+    },
+    "stats": {
+      "developerAccounts": "开发者账户",
+      "differentCountries": "不同国家账户",
+      "yearsExperience": "年经验",
+      "responseGuarantee": "快速响应保证"
+    },
+    "faq": {
+      "title": "常见问题",
+      "question1": {
+        "title": "什么是开发者账户？",
+        "answer": "开发者账户是为想要为平台开发应用程序并在 App Store 上发布这些应用程序的开发者创建的账户。该账户通过为开发者提供各种工具和资源来促进应用程序开发过程。"
+      },
+      "question2": {
+        "title": "购买账户时我可以选择哪些国家？",
+        "answer": "开发者账户可以在全球许多国家使用。我们提供来自各个地区的账户，以满足您的特定需求。"
+      },
+      "question3": {
+        "title": "我何时可以收到我的订单？",
+        "answer": "在创建订单后的几分钟内，您可以安全地获取您的开发者账户。"
+      },
+      "viewAllFaq": "查看所有常见问题"
+    },
+    "cta": {
+      "title": "准备好开始开发了吗？",
+      "subtitle": "立即获取您的开发者账户，加入来自世界各地的创新开发者社区。",
+      "button": "立即开始"
+    }
+  },
+  "products": {
+    "title": "我们的产品",
+    "subtitle": "探索我们的高级开发者账户和服务",
+    "filter": {
+      "all": "所有产品"
+    },
+    "product1": {
+      "title": "标准开发者账户",
+      "description": "适合想要在 App Store 上发布应用程序的个人开发者。",
+      "features": [
+        "向 App Store 提交应用程序",
+        "访问开发者工具",
+        "技术支持",
+        "使用 TestFlight 进行 Beta 测试"
+      ],
+      "cta": "联系获取价格"
+    },
+    "product2": {
+      "title": "高级开发者账户",
+      "description": "为认真的开发者提供附加功能的增强账户。",
+      "features": [
+        "所有标准功能",
+        "优先技术支持",
+        "延长应用程序审核时间",
+        "自定义应用程序预览视频"
+      ],
+      "cta": "联系获取价格"
+    },
+    "product3": {
+      "title": "企业开发者账户",
+      "description": "为想要开发和分发自定义应用程序的组织设计。",
+      "features": [
+        "内部应用程序分发",
+        "批量购买计划",
+        "设备注册计划",
+        "专属账户经理"
+      ],
+      "cta": "联系获取价格"
+    },
+    "product4": {
+      "title": "教育开发者账户",
+      "description": "专为教育机构和学生设计。",
+      "features": [
+        "多用户访问",
+        "教育资源",
+        "课堂内应用程序分发",
+        "学生协作工具"
+      ],
+      "cta": "联系获取价格"
+    },
+    "product5": {
+      "title": "账户设置服务",
+      "description": "完整设置和配置您的开发者账户。",
+      "features": [
+        "账户创建",
+        "配置文件配置",
+        "证书安装",
+        "应用程序 ID 注册"
+      ],
+      "cta": "联系获取价格"
+    },
+    "product6": {
+      "title": "应用程序提交服务",
+      "description": "我们为您管理整个应用程序提交过程。",
+      "features": [
+        "创建 App Store 列表",
+        "截图准备",
+        "元数据优化",
+        "二进制文件上传和提交"
+      ],
+      "cta": "联系获取价格"
+    },
+    "customSolution": {
+      "title": "需要自定义解决方案？",
+      "description": "联系我们讨论您的具体要求，我们将为您创建自定义套餐。",
+      "cta": "联系我们"
+    }
+  },
+  "contact": {
+    "title": "联系",
+    "subtitle": "有问题请联系我们",
+    "info": {
+      "title": "联系信息",
+      "description": "您可以通过以下渠道联系我们：",
+      "methods": {
+        "whatsapp": "通过 WhatsApp 联系",
+        "telegram": "通过 Telegram 联系",
+        "skype": "通过 Skype 联系",
+        "wechat": "通过微信联系"
+      },
+      "businessHours": {
+        "title": "营业时间",
+        "weekdays": "周一至周五：09:00 - 18:00",
+        "weekends": "周六至周日：10:00 - 16:00",
+        "note": "我们通常在 1 小时内回复您的消息。"
+      }
+    },
+    "form": {
+      "title": "给我们发送消息",
+      "name": "您的姓名",
+      "email": "您的电子邮件地址",
+      "phone": "您的电话号码",
+      "subject": "主题",
+      "message": "您的消息",
+      "submit": "发送",
+      "success": "您的消息已发送！",
+      "successMessage": "我们将尽快回复您。"
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "subtitle": "关于开发者账户的最常见问题",
+    "categories": {
+      "all": "全部",
+      "accounts": "账户",
+      "payment": "付款",
+      "delivery": "交付",
+      "support": "支持"
+    },
+    "questions": {
+      "q1": {
+        "category": "accounts",
+        "question": "什么是开发者账户？",
+        "answer": "开发者账户是为想要为平台开发应用程序并在 App Store 上发布这些应用程序的开发者创建的账户。该账户通过为开发者提供各种工具和资源来促进应用程序开发过程。"
+      },
+      "q2": {
+        "category": "accounts",
+        "question": "购买账户时我可以选择哪些国家？",
+        "answer": "开发者账户可以在全球许多国家使用。我们提供来自各个地区的账户，以满足您的特定需求。"
+      },
+      "q3": {
+        "category": "delivery",
+        "question": "我何时可以收到我的订单？",
+        "answer": "在创建订单后的几分钟内，您可以安全地获取您的开发者账户。"
+      },
+      "q4": {
+        "category": "payment",
+        "question": "您接受哪些付款方式？",
+        "answer": "我们接受银行转账、加密货币和其他流行的付款方式。请联系我们获取详细信息。"
+      },
+      "q5": {
+        "category": "support",
+        "question": "如果我的账户有问题，我应该怎么做？",
+        "answer": "如果您的账户遇到任何问题，您可以通过 WhatsApp、Telegram 或我们的其他通信渠道联系我们的 24/7 支持团队。"
+      },
+      "q6": {
+        "category": "accounts",
+        "question": "我的账户有效期是多久？",
+        "answer": "开发者账户通常有效期为一年，需要每年续订。我们会为您发送续订过程的提醒。"
+      }
+    }
+  },
+  "legal": {
+    "terms": {
+      "title": "使用条款",
+      "subtitle": "在使用我们的服务之前，请仔细阅读这些条款",
+      "lastUpdated": "最后更新：2025 年 4 月 28 日",
+      "sections": {
+        "intro": {
+          "title": "1. 介绍",
+          "content": "欢迎来到 NSDEV ACCOUNT。这些使用条款规定了您访问和使用我们的网站、产品和服务的条件。通过访问或使用我们的服务，您同意受这些条款的约束。"
+        },
+        "services": {
+          "title": "2. 服务描述",
+          "content": "NSDEV ACCOUNT 提供开发者账户和相关服务。我们的服务包括但不限于：",
+          "items": [
+            "提供开发者账户",
+            "账户设置和配置",
+            "与账户使用相关的技术支持"
+          ],
+          "additional": "我们保留随时修改、暂停或终止我们服务的任何部分的权利，恕不另行通知。"
+        }
+      }
+    },
+    "privacy": {
+      "title": "隐私政策",
+      "subtitle": "我们如何收集、使用和保护您的个人信息",
+      "lastUpdated": "最后更新：2025 年 4 月 28 日",
+      "sections": {
+        "intro": {
+          "title": "1. 介绍",
+          "content": "在 NSDEV ACCOUNT，我们尊重您的隐私并致力于保护您的个人信息。本隐私政策解释了当您访问我们的网站或使用我们的服务时，我们如何收集、使用、披露和保护您的信息。",
+          "additional": "请仔细阅读本隐私政策。如果您不同意本隐私政策的条款，请不要访问网站或使用我们的服务。"
+        },
+        "collection": {
+          "title": "2. 我们收集的信息",
+          "personalInfo": {
+            "title": "个人信息",
+            "content": "当您进行以下操作时，我们可能会收集您自愿提供给我们的个人信息：",
+            "items": [
+              "注册账户",
+              "购买我们的产品或服务",
+              "订阅我们的通讯",
+              "通过我们的网站或消息平台联系我们",
+              "参与调查或促销活动"
+            ],
+            "additional": "我们可能收集的个人信息包括：",
+            "items2": [
+              "姓名",
+              "电子邮件地址",
+              "电话号码",
+              "支付信息",
+              "通信偏好"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "languageSelection": {
+    "title": "Sprache auswählen",
+    "subtitle": "Willkommen bei NSDEV ACCOUNT. Bitte wählen Sie Ihre Sprache.",
+    "continue": "Fortfahren"
+  },
+  "header": {
+    "home": "Startseite",
+    "products": "Produkte",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "quickLinks": "Schnelllinks",
+    "legal": "Rechtliches",
+    "contactUs": "Kontaktieren Sie uns",
+    "termsConditions": "Nutzungsbedingungen",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "copyright": "© 2025 NSDEV ACCOUNT. Alle Rechte vorbehalten."
+  },
+  "home": {
+    "hero": {
+      "title": "Holen Sie sich Ihr NSDEV ACCOUNT jetzt!",
+      "subtitle": "Erhalten Sie Ihr Entwicklerkonto einfach und schnell. Bringen Sie Ihre Projekte zum Leben, stellen Sie Ihre Anwendungen der Welt vor. Wir stehen Ihnen mit unserem zuverlässigen und schnellen Service zur Seite.",
+      "cta1": "Produkte erkunden",
+      "cta2": "Kontaktieren Sie uns"
+    },
+    "features": {
+      "title": "Warum NSDEV ACCOUNT?",
+      "feature1": {
+        "title": "Einfacher Zugang",
+        "description": "Mit dem von Ihnen erworbenen Konto können Sie einfach auf das Entwicklerportal zugreifen und Hilfe zu Projekten anfordern."
+      },
+      "feature2": {
+        "title": "Zuverlässiger Service",
+        "description": "Unsere Konten sind in verschiedenen Ländern verfügbar und werden Ihnen mit unserem Qualitäts- und Sicherheitsverständnis angeboten."
+      },
+      "feature3": {
+        "title": "Support-Linie",
+        "description": "Durch den Erwerb des benötigten Kontos können Sie zur Entwicklungsumgebung beitragen und vielen Projekten zum Erfolg verhelfen."
+      }
+    },
+    "about": {
+      "title": "NSDEV ACCOUNT",
+      "subtitle": "Premium-Entwicklerkonten",
+      "description1": "Hallo,",
+      "description2": "Wir verkaufen seit vier Jahren aktiv Entwicklerkonten. Unsere Konten sind in verschiedenen Ländern verfügbar und werden Ihnen mit unserem Qualitäts- und Sicherheitsverständnis angeboten. Sie können uns für detaillierte Informationen kontaktieren und von unseren Dienstleistungen profitieren.",
+      "cta": "Kontaktieren Sie uns!"
+    },
+    "products": {
+      "title": "Entwickeln Sie Produkte und tragen Sie zur Community bei!",
+      "subtitle": "Wir unterstützen Sie beim Erwerb eines Kontos für das Entwicklerprogramm und bei der Präsenz in der Entwicklerumgebung.",
+      "product1": {
+        "title": "Entwicklerkonto",
+        "description": "Durch den Erwerb des benötigten Kontos können Sie zur Entwicklungsumgebung beitragen und vielen Projekten zum Erfolg verhelfen."
+      },
+      "product2": {
+        "title": "Entwicklerportal",
+        "description": "Treten Sie dem Entwicklerprogramm bei, um bei der Entwicklung erstaunlicher Anwendungen für iPhone, iPad, Mac, Apple Watch und Apple TV zu helfen."
+      },
+      "product3": {
+        "title": "Entwicklungstools",
+        "description": "Greifen Sie auf alle Tools und Ressourcen zu, die Sie benötigen, um großartige Anwendungen zu erstellen und zur Entwickler-Community beizutragen."
+      },
+      "cta": "Alle Produkte anzeigen"
+    },
+    "howToOrder": {
+      "title": "Wie kann ich bestellen?",
+      "subtitle": "Führen Sie die relevanten Schritte aus, um Ihr Entwicklerkonto in kurzer Zeit zu erhalten!",
+      "step1": {
+        "title": "Bestellung erstellen",
+        "description": "Entwickler, die ein Konto kaufen möchten, kontaktieren uns, indem sie auf die Links auf unserer Website klicken."
+      },
+      "step2": {
+        "title": "Kontoauswahl",
+        "description": "Nach der Kontaktaufnahme geben sie die Details des zu kaufenden Entwicklerkontos an."
+      },
+      "step3": {
+        "title": "Zahlung",
+        "description": "Die Zahlung für die entsprechende Bestellung erfolgt auf das angegebene Konto. Der Zahlungsbeleg muss an uns gesendet werden."
+      },
+      "step4": {
+        "title": "Lieferung",
+        "description": "Die notwendigen Konfigurationen werden für das angeforderte Konto vorgenommen und Ihre Bestellung wird aktiviert. Kontoinformationen werden an Sie gesendet."
+      }
+    },
+    "stats": {
+      "developerAccounts": "Entwicklerkonten",
+      "differentCountries": "Verschiedene Länderkonten",
+      "yearsExperience": "Jahre Erfahrung",
+      "responseGuarantee": "Schnelle Antwortgarantie"
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "question1": {
+        "title": "Was ist ein Entwicklerkonto?",
+        "answer": "Ein Entwicklerkonto ist ein Konto, das für Entwickler erstellt wurde, die Anwendungen für Plattformen entwickeln und diese Anwendungen im App Store veröffentlichen möchten. Dieses Konto erleichtert den Anwendungsentwicklungsprozess, indem es Entwicklern verschiedene Tools und Ressourcen zur Verfügung stellt."
+      },
+      "question2": {
+        "title": "Welche Länder kann ich beim Kauf eines Kontos wählen?",
+        "answer": "Das Entwicklerkonto kann in vielen Ländern weltweit verwendet werden. Wir bieten Konten aus verschiedenen Regionen an, um Ihre spezifischen Bedürfnisse zu erfüllen."
+      },
+      "question3": {
+        "title": "Wann kann ich meine Bestellung erhalten?",
+        "answer": "Sie können Ihr Entwicklerkonto innerhalb von Minuten nach Erstellung der Bestellung sicher erhalten."
+      },
+      "viewAllFaq": "Alle FAQs anzeigen"
+    },
+    "cta": {
+      "title": "Bereit mit der Entwicklung zu beginnen?",
+      "subtitle": "Holen Sie sich noch heute Ihr Entwicklerkonto und werden Sie Teil der Community innovativer Entwickler aus der ganzen Welt.",
+      "button": "Jetzt loslegen"
+    }
+  },
+  "products": {
+    "title": "Unsere Produkte",
+    "subtitle": "Entdecken Sie unsere Premium-Entwicklerkonten und -Dienstleistungen",
+    "filter": {
+      "all": "Alle Produkte"
+    },
+    "product1": {
+      "title": "Standard-Entwicklerkonto",
+      "description": "Perfekt für einzelne Entwickler, die ihre Anwendungen im App Store veröffentlichen möchten.",
+      "features": [
+        "App-Einreichung im App Store",
+        "Zugriff auf Entwicklertools",
+        "Technischer Support",
+        "Beta-Tests mit TestFlight"
+      ],
+      "cta": "Kontakt für Preis"
+    },
+    "product2": {
+      "title": "Premium-Entwicklerkonto",
+      "description": "Erweitertes Konto mit zusätzlichen Funktionen für ernsthafte Entwickler.",
+      "features": [
+        "Alle Standard-Funktionen",
+        "Prioritäts-Technischer Support",
+        "Erweiterte App-Überprüfungszeit",
+        "Benutzerdefinierte App-Vorschauvideos"
+      ],
+      "cta": "Kontakt für Preis"
+    },
+    "product3": {
+      "title": "Unternehmens-Entwicklerkonto",
+      "description": "Entwickelt für Organisationen, die benutzerdefinierte Anwendungen entwickeln und verteilen möchten.",
+      "features": [
+        "Interne App-Verteilung",
+        "Volumenkaufprogramm",
+        "Geräteregistrierungsprogramm",
+        "Dedizierter Kontomanager"
+      ],
+      "cta": "Kontakt für Preis"
+    },
+    "product4": {
+      "title": "Bildungs-Entwicklerkonto",
+      "description": "Speziell für Bildungseinrichtungen und Studenten konzipiert.",
+      "features": [
+        "Multi-User-Zugriff",
+        "Bildungsressourcen",
+        "App-Verteilung im Unterricht",
+        "Werkzeuge für die Zusammenarbeit von Studenten"
+      ],
+      "cta": "Kontakt für Preis"
+    },
+    "product5": {
+      "title": "Konto-Einrichtungsservice",
+      "description": "Vollständige Einrichtung und Konfiguration Ihres Entwicklerkontos.",
+      "features": [
+        "Kontoerstellung",
+        "Profilkonfiguration",
+        "Zertifikatsinstallation",
+        "App-ID-Registrierung"
+      ],
+      "cta": "Kontakt für Preis"
+    },
+    "product6": {
+      "title": "App-Einreichungsservice",
+      "description": "Wir verwalten den gesamten App-Einreichungsprozess für Sie.",
+      "features": [
+        "Erstellung von App Store-Einträgen",
+        "Screenshot-Vorbereitung",
+        "Metadaten-Optimierung",
+        "Binärdatei-Upload und -Einreichung"
+      ],
+      "cta": "Kontakt für Preis"
+    },
+    "customSolution": {
+      "title": "Benötigen Sie eine maßgeschneiderte Lösung?",
+      "description": "Kontaktieren Sie uns, um Ihre spezifischen Anforderungen zu besprechen, und wir erstellen ein maßgeschneidertes Paket für Sie.",
+      "cta": "Kontaktieren Sie uns"
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontaktieren Sie uns für Ihre Fragen",
+    "info": {
+      "title": "Kontaktinformationen",
+      "description": "Sie können uns über die folgenden Kanäle erreichen:",
+      "methods": {
+        "whatsapp": "Kontakt über WhatsApp",
+        "telegram": "Kontakt über Telegram",
+        "skype": "Kontakt über Skype",
+        "wechat": "Kontakt über WeChat"
+      },
+      "businessHours": {
+        "title": "Geschäftszeiten",
+        "weekdays": "Montag - Freitag: 09:00 - 18:00",
+        "weekends": "Samstag - Sonntag: 10:00 - 16:00",
+        "note": "Wir antworten in der Regel innerhalb von 1 Stunde auf Ihre Nachrichten."
+      }
+    },
+    "form": {
+      "title": "Senden Sie uns eine Nachricht",
+      "name": "Ihr Name",
+      "email": "Ihre E-Mail-Adresse",
+      "phone": "Ihre Telefonnummer",
+      "subject": "Betreff",
+      "message": "Ihre Nachricht",
+      "submit": "Senden",
+      "success": "Ihre Nachricht wurde gesendet!",
+      "successMessage": "Wir werden uns so schnell wie möglich bei Ihnen melden."
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Am häufigsten gestellte Fragen zu Entwicklerkonten",
+    "categories": {
+      "all": "Alle",
+      "accounts": "Konten",
+      "payment": "Zahlung",
+      "delivery": "Lieferung",
+      "support": "Support"
+    },
+    "questions": {
+      "q1": {
+        "category": "accounts",
+        "question": "Was ist ein Entwicklerkonto?",
+        "answer": "Ein Entwicklerkonto ist ein Konto, das für Entwickler erstellt wurde, die Anwendungen für Plattformen entwickeln und diese Anwendungen im App Store veröffentlichen möchten. Dieses Konto erleichtert den Anwendungsentwicklungsprozess, indem es Entwicklern verschiedene Tools und Ressourcen zur Verfügung stellt."
+      },
+      "q2": {
+        "category": "accounts",
+        "question": "Welche Länder kann ich beim Kauf eines Kontos wählen?",
+        "answer": "Das Entwicklerkonto kann in vielen Ländern weltweit verwendet werden. Wir bieten Konten aus verschiedenen Regionen an, um Ihre spezifischen Bedürfnisse zu erfüllen."
+      },
+      "q3": {
+        "category": "delivery",
+        "question": "Wann kann ich meine Bestellung erhalten?",
+        "answer": "Sie können Ihr Entwicklerkonto innerhalb von Minuten nach Erstellung der Bestellung sicher erhalten."
+      },
+      "q4": {
+        "category": "payment",
+        "question": "Welche Zahlungsmethoden akzeptieren Sie?",
+        "answer": "Wir akzeptieren Banküberweisungen, Kryptowährungen und andere gängige Zahlungsmethoden. Bitte kontaktieren Sie uns für detaillierte Informationen."
+      },
+      "q5": {
+        "category": "support",
+        "question": "Was soll ich tun, wenn ich Probleme mit meinem Konto habe?",
+        "answer": "Wenn Sie Probleme mit Ihrem Konto haben, können Sie unser 24/7-Support-Team über WhatsApp, Telegram oder unsere anderen Kommunikationskanäle erreichen."
+      },
+      "q6": {
+        "category": "accounts",
+        "question": "Wie lange ist mein Konto gültig?",
+        "answer": "Entwicklerkonten sind in der Regel ein Jahr gültig und müssen jährlich erneuert werden. Wir senden Ihnen eine Erinnerung für den Erneuerungsprozess."
+      }
+    }
+  },
+  "legal": {
+    "terms": {
+      "title": "Nutzungsbedingungen",
+      "subtitle": "Bitte lesen Sie diese Bedingungen sorgfältig durch, bevor Sie unsere Dienste nutzen",
+      "lastUpdated": "Zuletzt aktualisiert: 28. April 2025",
+      "sections": {
+        "intro": {
+          "title": "1. Einführung",
+          "content": "Willkommen bei NSDEV ACCOUNT (\"wir\", \"unser\" oder \"uns\"). Diese Nutzungsbedingungen (\"Bedingungen\") regeln Ihren Zugang zu und die Nutzung unserer Website, Produkte und Dienstleistungen. Durch den Zugriff auf oder die Nutzung unserer Dienste erklären Sie sich mit diesen Bedingungen einverstanden."
+        },
+        "services": {
+          "title": "2. Dienstleistungsbeschreibung",
+          "content": "NSDEV ACCOUNT bietet Entwicklerkonten und zugehörige Dienstleistungen an. Unsere Dienstleistungen umfassen, sind aber nicht beschränkt auf:",
+          "items": [
+            "Bereitstellung von Entwicklerkonten",
+            "Kontoeinrichtung und -konfiguration",
+            "Technischer Support im Zusammenhang mit der Kontonutzung"
+          ],
+          "additional": "Wir behalten uns das Recht vor, jeden Teil unserer Dienstleistungen jederzeit ohne Vorankündigung zu ändern, auszusetzen oder einzustellen."
+        }
+      }
+    },
+    "privacy": {
+      "title": "Datenschutzrichtlinie",
+      "subtitle": "Wie wir Ihre persönlichen Informationen sammeln, verwenden und schützen",
+      "lastUpdated": "Zuletzt aktualisiert: 28. April 2025",
+      "sections": {
+        "intro": {
+          "title": "1. Einführung",
+          "content": "Bei NSDEV ACCOUNT (\"wir\", \"unser\" oder \"uns\") respektieren wir Ihre Privatsphäre und sind bestrebt, Ihre persönlichen Informationen zu schützen. Diese Datenschutzrichtlinie erklärt, wie wir Ihre Informationen sammeln, verwenden, offenlegen und schützen, wenn Sie unsere Website besuchen oder unsere Dienste nutzen.",
+          "additional": "Bitte lesen Sie diese Datenschutzrichtlinie sorgfältig durch. Wenn Sie mit den Bedingungen dieser Datenschutzrichtlinie nicht einverstanden sind, greifen Sie bitte nicht auf die Website zu oder nutzen Sie unsere Dienste nicht."
+        },
+        "collection": {
+          "title": "2. Informationen, die wir sammeln",
+          "personalInfo": {
+            "title": "Persönliche Informationen",
+            "content": "Wir können persönliche Informationen sammeln, die Sie uns freiwillig zur Verfügung stellen, wenn Sie:",
+            "items": [
+              "Ein Konto registrieren",
+              "Unsere Produkte oder Dienstleistungen kaufen",
+              "Sich für unseren Newsletter anmelden",
+              "Uns über unsere Website oder Messaging-Plattformen kontaktieren",
+              "An Umfragen oder Werbeaktionen teilnehmen"
+            ],
+            "additional": "Die persönlichen Informationen, die wir sammeln können, umfassen:",
+            "items2": [
+              "Name",
+              "E-Mail-Adresse",
+              "Telefonnummer",
+              "Zahlungsinformationen",
+              "Kommunikationspräferenzen"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

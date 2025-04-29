@@ -1,0 +1,324 @@
+{
+  "languageSelection": {
+    "title": "Dil Seçin",
+    "subtitle": "NSDEV ACCOUNT'a hoş geldiniz. Lütfen dilinizi seçin.",
+    "continue": "Devam Et"
+  },
+  "header": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "faq": "SSS",
+    "contact": "İletişim"
+  },
+  "footer": {
+    "quickLinks": "Hızlı Bağlantılar",
+    "legal": "Yasal",
+    "contactUs": "Bize Ulaşın",
+    "termsConditions": "Kullanım Koşulları",
+    "privacyPolicy": "Gizlilik Politikası",
+    "copyright": "© 2025 NSDEV ACCOUNT. Tüm hakları saklıdır."
+  },
+  "home": {
+    "hero": {
+      "title": "NSDEV ACCOUNT'unuzu Hemen Alın!",
+      "subtitle": "Geliştirici hesabınızı kolayca ve hızlıca edinin. Projelerinizi hayata geçirin, uygulamalarınızı dünyaya tanıtın. Güvenilir ve hızlı hizmetimizle yanınızdayız.",
+      "cta1": "Ürünleri İncele",
+      "cta2": "Bizimle İletişime Geç"
+    },
+    "features": {
+      "title": "Neden NSDEV ACCOUNT?",
+      "feature1": {
+        "title": "Kolay Erişim",
+        "description": "Satın aldığınız hesap ile geliştirici portalına kolayca erişebilir ve projeler hakkında yardım talep edebilirsiniz."
+      },
+      "feature2": {
+        "title": "Güvenilir Hizmet",
+        "description": "Hesaplarımız, çeşitli ülkelerde mevcut olup, kaliteli ve güvenli hizmet anlayışımızla sizlere sunulmaktadır."
+      },
+      "feature3": {
+        "title": "Destek Hattı",
+        "description": "İhtiyacınız olan hesabı edinerek geliştirme ortamına siz de katkıda bulunabilir ve bir çok projenin başarıya ulaşmasında katkı sağlayabilirsiniz."
+      }
+    },
+    "about": {
+      "title": "NSDEV ACCOUNT",
+      "subtitle": "Premium Geliştirici Hesapları",
+      "description1": "Merhaba,",
+      "description2": "Dört yıldır aktif olarak geliştirici hesapları satışı yapmaktayız. Hesaplarımız, çeşitli ülkelerde mevcut olup, kaliteli ve güvenli hizmet anlayışımızla sizlere sunulmaktadır. Detaylı bilgi ve hizmetlerimizden yararlanmak için bizimle iletişime geçebilirsiniz.",
+      "cta": "İletişime Geç!"
+    },
+    "products": {
+      "title": "Ürünler Geliştirin ve Topluluğa Katkı Sağlayın!",
+      "subtitle": "Geliştirici Programı için hesap edinmenize ve geliştirici ortamında var olmanıza destek veriyoruz.",
+      "product1": {
+        "title": "Geliştirici Hesabı",
+        "description": "İhtiyacınız olan hesabı edinerek geliştirme ortamına siz de katkıda bulunabilir ve bir çok projenin başarıya ulaşmasında katkı sağlayabilirsiniz."
+      },
+      "product2": {
+        "title": "Geliştirici Portalı",
+        "description": "iPhone, iPad, Mac, Apple Watch ve Apple TV için inanılmaz uygulamalar geliştirmesine yardımcı olmak için Geliştirici Programı'na katılın."
+      },
+      "product3": {
+        "title": "Geliştirme Araçları",
+        "description": "Harika uygulamalar oluşturmak ve geliştirici topluluğuna katkıda bulunmak için ihtiyacınız olan tüm araçlara ve kaynaklara erişin."
+      },
+      "cta": "Tüm Ürünleri Görüntüle"
+    },
+    "howToOrder": {
+      "title": "Nasıl Sipariş Verebilirim?",
+      "subtitle": "İlgili adımları tamamlayarak Geliştirici Hesabınıza kısa süre içerisinde sahip olun!",
+      "step1": {
+        "title": "Sipariş Oluşturma",
+        "description": "Hesap satın almak isteyen geliştiriciler, sitemizdeki bağlantılara tıklayarak bizimle iletişime geçerler."
+      },
+      "step2": {
+        "title": "Hesap Seçimi",
+        "description": "İletişim kurulduktan sonra, satın alınacak geliştirici hesabının bilgilerini belirtirler."
+      },
+      "step3": {
+        "title": "Ödeme",
+        "description": "Hesap için belirtilen hesaba ilgili siparişe ait ödeme gerçekleştirilir. Ödemeye ait dekont tarafımıza iletilmelidir."
+      },
+      "step4": {
+        "title": "Teslimat",
+        "description": "İstenen hesap için gerekli yapılandırmalar yapılarak siparişiniz aktif hale getirilir. Hesap bilgileri tarafınıza iletilir."
+      }
+    },
+    "stats": {
+      "developerAccounts": "Geliştirici Hesabı",
+      "differentCountries": "Farklı Ülke Hesabı",
+      "yearsExperience": "Yıllık Tecrübe",
+      "responseGuarantee": "Hızlı Dönüş Garantisi"
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "question1": {
+        "title": "Geliştirici Hesabı Nedir?",
+        "answer": "Geliştirici Hesabı, platformlar için uygulama geliştirmek ve bu uygulamaları App Store'da yayınlamak isteyen geliştiriciler için oluşturulmuş bir hesaptır. Bu hesap, geliştiricilere çeşitli araçlar ve kaynaklar sunarak uygulama geliştirme sürecini kolaylaştırır."
+      },
+      "question2": {
+        "title": "Hesap Satın Alırken Hangi Ülkeleri Seçebilirim?",
+        "answer": "Geliştirici Hesabı, dünya genelinde birçok ülkede kullanılabilir. Özel ihtiyaçlarınızı karşılamak için çeşitli bölgelerden hesaplar sunuyoruz."
+      },
+      "question3": {
+        "title": "Siparişimi Ne Zaman Teslim Alabilirim?",
+        "answer": "Sipariş oluştuktan sonra dakikalar içerisinde Geliştirici Hesabınızı güvenle temin edebilirsiniz."
+      },
+      "viewAllFaq": "Tüm SSS'leri Görüntüle"
+    },
+    "cta": {
+      "title": "Geliştirmeye Başlamaya Hazır mısınız?",
+      "subtitle": "Bugün Geliştirici Hesabınızı alın ve dünyanın dört bir yanındaki yenilikçi geliştiriciler topluluğuna katılın.",
+      "button": "Hemen Başla"
+    }
+  },
+  "products": {
+    "title": "Ürünlerimiz",
+    "subtitle": "Premium geliştirici hesaplarımızı ve hizmetlerimizi keşfedin",
+    "filter": {
+      "all": "Tüm Ürünler"
+    },
+    "product1": {
+      "title": "Standart Geliştirici Hesabı",
+      "description": "Uygulamalarını App Store'da yayınlamak isteyen bireysel geliştiriciler için mükemmel.",
+      "features": [
+        "App Store'a uygulama gönderimi",
+        "Geliştirici araçlarına erişim",
+        "Teknik destek",
+        "TestFlight ile beta testi"
+      ],
+      "cta": "Fiyat için İletişime Geçin"
+    },
+    "product2": {
+      "title": "Premium Geliştirici Hesabı",
+      "description": "Ciddi geliştiriciler için ek özelliklerle geliştirilmiş hesap.",
+      "features": [
+        "Tüm Standart özellikler",
+        "Öncelikli teknik destek",
+        "Genişletilmiş uygulama inceleme süresi",
+        "Özel uygulama önizleme videoları"
+      ],
+      "cta": "Fiyat için İletişime Geçin"
+    },
+    "product3": {
+      "title": "Kurumsal Geliştirici Hesabı",
+      "description": "Özel uygulamalar geliştirmek ve dağıtmak isteyen organizasyonlar için tasarlanmıştır.",
+      "features": [
+        "Kurum içi uygulama dağıtımı",
+        "Toplu Satın Alma Programı",
+        "Cihaz Kayıt Programı",
+        "Özel hesap yöneticisi"
+      ],
+      "cta": "Fiyat için İletişime Geçin"
+    },
+    "product4": {
+      "title": "Eğitim Geliştirici Hesabı",
+      "description": "Özellikle eğitim kurumları ve öğrenciler için tasarlanmıştır.",
+      "features": [
+        "Çok kullanıcılı erişim",
+        "Eğitim kaynakları",
+        "Sınıf içi uygulama dağıtımı",
+        "Öğrenci işbirliği araçları"
+      ],
+      "cta": "Fiyat için İletişime Geçin"
+    },
+    "product5": {
+      "title": "Hesap Kurulum Hizmeti",
+      "description": "Geliştirici hesabınızın tam kurulumu ve yapılandırması.",
+      "features": [
+        "Hesap oluşturma",
+        "Profil yapılandırması",
+        "Sertifika kurulumu",
+        "Uygulama ID kaydı"
+      ],
+      "cta": "Fiyat için İletişime Geçin"
+    },
+    "product6": {
+      "title": "Uygulama Gönderim Hizmeti",
+      "description": "Sizin için tüm uygulama gönderim sürecini yönetiyoruz.",
+      "features": [
+        "App Store listesi oluşturma",
+        "Ekran görüntüsü hazırlama",
+        "Meta veri optimizasyonu",
+        "İkili dosya yükleme ve gönderme"
+      ],
+      "cta": "Fiyat için İletişime Geçin"
+    },
+    "customSolution": {
+      "title": "Özel bir çözüme mi ihtiyacınız var?",
+      "description": "Özel gereksinimlerinizi görüşmek için bizimle iletişime geçin, size özel bir paket oluşturalım.",
+      "cta": "İletişime Geçin"
+    }
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Sorularınız için bizimle iletişime geçin",
+    "info": {
+      "title": "İletişim Bilgileri",
+      "description": "Aşağıdaki kanallar üzerinden bize ulaşabilirsiniz:",
+      "methods": {
+        "whatsapp": "WhatsApp ile İletişim",
+        "telegram": "Telegram ile İletişim",
+        "skype": "Skype ile İletişim",
+        "wechat": "WeChat ile İletişim"
+      },
+      "businessHours": {
+        "title": "Çalışma Saatleri",
+        "weekdays": "Pazartesi - Cuma: 09:00 - 18:00",
+        "weekends": "Cumartesi - Pazar: 10:00 - 16:00",
+        "note": "Genellikle mesajlarınıza 1 saat içinde yanıt veriyoruz."
+      }
+    },
+    "form": {
+      "title": "Bize Mesaj Gönderin",
+      "name": "Adınız",
+      "email": "E-posta Adresiniz",
+      "phone": "Telefon Numaranız",
+      "subject": "Konu",
+      "message": "Mesajınız",
+      "submit": "Gönder",
+      "success": "Mesajınız gönderildi!",
+      "successMessage": "En kısa sürede size geri döneceğiz."
+    }
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "subtitle": "Geliştirici hesapları hakkında en sık sorulan sorular",
+    "categories": {
+      "all": "Tümü",
+      "accounts": "Hesaplar",
+      "payment": "Ödeme",
+      "delivery": "Teslimat",
+      "support": "Destek"
+    },
+    "questions": {
+      "q1": {
+        "category": "accounts",
+        "question": "Geliştirici Hesabı Nedir?",
+        "answer": "Geliştirici Hesabı, platformlar için uygulama geliştirmek ve bu uygulamaları App Store'da yayınlamak isteyen geliştiriciler için oluşturulmuş bir hesaptır. Bu hesap, geliştiricilere çeşitli araçlar ve kaynaklar sunarak uygulama geliştirme sürecini kolaylaştırır."
+      },
+      "q2": {
+        "category": "accounts",
+        "question": "Hesap Satın Alırken Hangi Ülkeleri Seçebilirim?",
+        "answer": "Geliştirici Hesabı, dünya genelinde birçok ülkede kullanılabilir. Özel ihtiyaçlarınızı karşılamak için çeşitli bölgelerden hesaplar sunuyoruz."
+      },
+      "q3": {
+        "category": "delivery",
+        "question": "Siparişimi Ne Zaman Teslim Alabilirim?",
+        "answer": "Sipariş oluştuktan sonra dakikalar içerisinde Geliştirici Hesabınızı güvenle temin edebilirsiniz."
+      },
+      "q4": {
+        "category": "payment",
+        "question": "Hangi Ödeme Yöntemlerini Kabul Ediyorsunuz?",
+        "answer": "Banka havalesi, kripto para birimleri ve diğer popüler ödeme yöntemlerini kabul ediyoruz. Detaylı bilgi için lütfen bizimle iletişime geçin."
+      },
+      "q5": {
+        "category": "support",
+        "question": "Hesabımla İlgili Sorun Yaşarsam Ne Yapmalıyım?",
+        "answer": "Hesabınızla ilgili herhangi bir sorun yaşarsanız, WhatsApp, Telegram veya diğer iletişim kanallarımız aracılığıyla 7/24 destek ekibimize ulaşabilirsiniz."
+      },
+      "q6": {
+        "category": "accounts",
+        "question": "Hesabım Ne Kadar Süre Geçerli Olacak?",
+        "answer": "Geliştirici hesapları genellikle bir yıl geçerlidir ve yıllık olarak yenilenmesi gerekir. Yenileme süreci için size bir hatırlatma göndereceğiz."
+      }
+    }
+  },
+  "legal": {
+    "terms": {
+      "title": "Kullanım Koşulları",
+      "subtitle": "Hizmetlerimizi kullanmadan önce lütfen bu koşulları dikkatlice okuyun",
+      "lastUpdated": "Son Güncelleme: 28 Nisan 2025",
+      "sections": {
+        "intro": {
+          "title": "1. Giriş",
+          "content": "NSDEV ACCOUNT'a (\"biz,\" \"bizim\" veya \"bize\") hoş geldiniz. Bu Kullanım Koşulları (\"Koşullar\"), web sitemize, ürünlerimize ve hizmetlerimize erişiminizi ve kullanımınızı düzenler. Hizmetlerimize erişerek veya kullanarak, bu Koşullara bağlı kalmayı kabul etmiş olursunuz."
+        },
+        "services": {
+          "title": "2. Hizmet Açıklaması",
+          "content": "NSDEV ACCOUNT, geliştirici hesapları ve ilgili hizmetler sunar. Hizmetlerimiz aşağıdakileri içerir ancak bunlarla sınırlı değildir:",
+          "items": [
+            "Geliştirici hesaplarının sağlanması",
+            "Hesap kurulumu ve yapılandırması",
+            "Hesap kullanımıyla ilgili teknik destek"
+          ],
+          "additional": "Hizmetlerimizin herhangi bir bölümünü herhangi bir zamanda önceden bildirimde bulunmaksızın değiştirme, askıya alma veya sonlandırma hakkını saklı tutarız."
+        }
+      }
+    },
+    "privacy": {
+      "title": "Gizlilik Politikası",
+      "subtitle": "Kişisel bilgilerinizi nasıl topladığımız, kullandığımız ve koruduğumuz hakkında",
+      "lastUpdated": "Son Güncelleme: 28 Nisan 2025",
+      "sections": {
+        "intro": {
+          "title": "1. Giriş",
+          "content": "NSDEV ACCOUNT (\"biz,\" \"bizim,\" veya \"bize\") olarak, gizliliğinize saygı duyuyor ve kişisel bilgilerinizi korumayı taahhüt ediyoruz. Bu Gizlilik Politikası, web sitemizi ziyaret ettiğinizde veya hizmetlerimizi kullandığınızda bilgilerinizi nasıl topladığımızı, kullandığımızı, açıkladığımızı ve koruduğumuzu açıklar.",
+          "additional": "Lütfen bu Gizlilik Politikasını dikkatlice okuyun. Bu Gizlilik Politikasının şartlarını kabul etmiyorsanız, lütfen siteye erişmeyin veya hizmetlerimizi kullanmayın."
+        },
+        "collection": {
+          "title": "2. Topladığımız Bilgiler",
+          "personalInfo": {
+            "title": "Kişisel Bilgiler",
+            "content": "Aşağıdaki durumlarda bize gönüllü olarak sağladığınız kişisel bilgileri toplayabiliriz:",
+            "items": [
+              "Bir hesap oluşturduğunuzda",
+              "Ürün veya hizmetlerimizi satın aldığınızda",
+              "Bültenimize kaydolduğunuzda",
+              "Web sitemiz veya mesajlaşma platformları aracılığıyla bizimle iletişime geçtiğinizde",
+              "Anketlere veya promosyonlara katıldığınızda"
+            ],
+            "additional": "Toplayabileceğimiz kişisel bilgiler şunları içerir:",
+            "items2": [
+              "İsim",
+              "E-posta adresi",
+              "Telefon numarası",
+              "Ödeme bilgileri",
+              "İletişim tercihleri"
+            ]
+          }
+        }
+      }
+    }
+  }
+}
