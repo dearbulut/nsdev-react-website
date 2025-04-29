@@ -14,6 +14,10 @@ const LanguageButton = styled.button`
   border-radius: 50px;
   transition: background-color 0.2s ease;
 
+  @media (max-width: 480px) {
+    padding: 6px;
+  }
+
   &:hover {
     background-color: rgba(0, 0, 0, 0.05);
   }
@@ -33,11 +37,21 @@ const LanguageFlag = styled.span`
   display: flex;
   align-items: center;
   justify-content: center;
+  
+  @media (max-width: 480px) {
+    width: 20px;
+    height: 20px;
+    font-size: 0.9em;
+  }
 `;
 
 const LanguageText = styled.span`
   font-weight: 500;
   font-size: 14px;
+  
+  @media (max-width: 480px) {
+    display: none;
+  }
 `;
 
 const DropdownContainer = styled.div`
@@ -46,20 +60,25 @@ const DropdownContainer = styled.div`
 
 const DropdownMenu = styled.div`
   position: absolute;
-  top: 100%;
+  top: calc(100% + 5px);
   right: 0;
   width: 180px;
   background-color: #fff;
-  border-radius: 8px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
   overflow: hidden;
   z-index: 100;
   display: ${props => (props.isOpen ? 'block' : 'none')};
   animation: fadeIn 0.3s ease forwards;
+  
+  @media (max-width: 480px) {
+    width: 150px;
+    right: -10px;
+  }
 
   .dark-theme & {
     background-color: #1d1d1f;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.4);
   }
 
   @keyframes fadeIn {
@@ -72,6 +91,21 @@ const DropdownMenu = styled.div`
       transform: translateY(0);
     }
   }
+  
+  &:before {
+    content: '';
+    position: absolute;
+    top: -6px;
+    right: 16px;
+    width: 12px;
+    height: 12px;
+    background-color: inherit;
+    transform: rotate(45deg);
+    
+    @media (max-width: 480px) {
+      right: 20px;
+    }
+  }
 `;
 
 const LanguageOption = styled.div`
@@ -81,6 +115,12 @@ const LanguageOption = styled.div`
   padding: 12px 16px;
   cursor: pointer;
   transition: background-color 0.2s ease;
+  position: relative;
+  z-index: 1;
+  
+  @media (max-width: 480px) {
+    padding: 10px 12px;
+  }
 
   &:hover {
     background-color: #f5f5f7;

@@ -7,6 +7,14 @@ const FooterContainer = styled.footer`
   padding: 3rem 0 1.5rem;
   transition: background-color 0.3s ease;
   
+  @media (max-width: 768px) {
+    padding: 2.5rem 0 1.5rem;
+  }
+  
+  @media (max-width: 480px) {
+    padding: 2rem 0 1rem;
+  }
+  
   &.light-theme {
     background-color: #f5f5f7;
     border-top: 1px solid #d2d2d7;
@@ -22,6 +30,10 @@ const FooterContent = styled.div`
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 1.5rem;
+  
+  @media (max-width: 480px) {
+    padding: 0 1rem;
+  }
 `;
 
 const FooterGrid = styled.div`
@@ -32,10 +44,12 @@ const FooterGrid = styled.div`
   
   @media (max-width: 768px) {
     grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
   }
   
   @media (max-width: 576px) {
     grid-template-columns: 1fr;
+    gap: 1.5rem;
   }
 `;
 
@@ -44,6 +58,11 @@ const FooterLogo = styled.div`
     height: 40px;
     width: auto;
     margin-bottom: 1rem;
+    
+    @media (max-width: 480px) {
+      height: 35px;
+      margin-bottom: 0.5rem;
+    }
   }
   
   p {
@@ -64,6 +83,11 @@ const FooterSection = styled.div`
     font-size: 1.25rem;
     margin-bottom: 1rem;
     font-weight: 600;
+    
+    @media (max-width: 480px) {
+      font-size: 1.1rem;
+      margin-bottom: 0.75rem;
+    }
   }
   
   ul {
@@ -74,6 +98,10 @@ const FooterSection = styled.div`
   
   li {
     margin-bottom: 0.5rem;
+    
+    @media (max-width: 480px) {
+      margin-bottom: 0.4rem;
+    }
   }
   
   a {
@@ -81,6 +109,11 @@ const FooterSection = styled.div`
     align-items: center;
     gap: 0.5rem;
     transition: color 0.2s ease;
+    padding: 0.25rem 0;
+    
+    @media (max-width: 480px) {
+      font-size: 0.95rem;
+    }
     
     &.light-theme {
       color: #1d1d1f;
@@ -97,12 +130,22 @@ const FooterSection = styled.div`
         color: #2997ff;
       }
     }
+    
+    i {
+      width: 20px;
+      text-align: center;
+      font-size: 1.1em;
+    }
   }
 `;
 
 const FooterBottom = styled.div`
   text-align: center;
   padding-top: 1.5rem;
+  
+  @media (max-width: 480px) {
+    padding-top: 1rem;
+  }
   
   &.light-theme {
     border-top: 1px solid #d2d2d7;
@@ -114,6 +157,10 @@ const FooterBottom = styled.div`
   
   p {
     margin-bottom: 0;
+    
+    @media (max-width: 480px) {
+      font-size: 0.9rem;
+    }
     
     &.light-theme {
       color: #6e6e73;
