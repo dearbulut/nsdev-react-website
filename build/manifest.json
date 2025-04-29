@@ -1,0 +1,15 @@
+{
+  "short_name": "NSDEV ACCOUNT",
+  "name": "NSDEV ACCOUNT - Premium Gelistirici Hesaplari",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#007AFF",
+  "background_color": "#ffffff"
+}
